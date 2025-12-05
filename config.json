@@ -1,0 +1,202 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#202531",
+            "lang-select-color": "#222829",
+            "bg-light": "#222530",
+            "welcome-bonus-bg": "#202531",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#12151D",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#782072",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#108A46",
+            "yellow": "#782072",
+            "yellow-button": "#108A46",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#202531",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#202531",
+            "faq-label": "#202531",
+            "bg-footer": "#202531",
+            "copyright": "#e7e7d5",
+            "starColor": "#782072",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Bitkingz",
+            "title": "Bitkingz Casino | Slots, Bonuses, Tournaments & Secure Withdrawals",
+            "description": "Play at Bitkingz Casino: thousands of slots, live games, generous bonuses, and instant payouts. Licensed, secure, crypto-friendly, and 24\/7 support.\n",
+            "canonical": "bitkingzcasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/874",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "bitkingzcasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/875",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/876"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/879",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Bitkingz Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Bitkingz Casino \u2014 Online Gaming with Bonuses and Fast Payouts",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/880",
+            "imageSizeModifier": 0,
+            "imageYModifier": -2,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/881",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Loyalty program for frequent players.",
+                "Wide selection of games from top providers.",
+                "Cryptocurrency support and fast withdrawals.",
+                "Generous bonuses and regular promotions.",
+                "Wide range of games",
+                "User-friendly interface and mobile version.",
+                "Cura\u00e7ao license and data protection.",
+                "Instant deposits via popular methods."
+            ],
+            "advantagesAfterText": "Bitkingz Casino combines variety, convenience, and security. It suits both beginners and experienced players with flexible bonuses and crypto support.\n",
+            "knowMore": "Know more",
+            "appTitle": "Bitkingz App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/882",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Bitkingz App",
+            "mobileGooglePlayImageTitle": "Bitkingz App",
+            "mobileIosImageTitle": "Bitkingz App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Bitkingz",
+                "description1": "",
+                "items": [
+                    "Bonus up to 300% on deposit.",
+                    "Maximum win up to \u20ac50,000 daily.",
+                    "Cashback up to 20% for VIP."
+                ],
+                "description2": "Bitkingz Casino is a modern gaming platform with a vibrant design. The casino offers a wide selection of slots and table games. Players can enjoy live dealers and an authentic atmosphere. The website interface is user-friendly and easy for beginners. Mobile support makes gaming accessible anywhere. The bonus system encourages players to return.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/883",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " A loyalty program is designed for regular customers. All transactions are protected by advanced encryption technologies. The casino operates under an international license, ensuring reliability. Bitkingz combines excitement, convenience, and security.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": " Bitkingz Casino \u2014 A World of Thrills and Big Wins",
+                "description": "<p>\nBitkingz Casino is a modern online platform designed for those who value excitement, comfort, and reliability. The casino attracts players with its stylish design and intuitive navigation, making it easy to find favorite games and enjoy the experience without unnecessary complications. Every element of the interface is crafted for convenience, and mobile support ensures gaming is accessible anywhere.\n\n<\/p>\n<br>\n<p>\nThe game collection at Bitkingz is truly impressive. It features thousands of slots, table games, and live casino options with real dealers. By partnering with leading providers, players gain access to high-quality games with stunning graphics and fair outcomes. The authentic casino atmosphere is available right on the screen, making the gaming experience as realistic as possible.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to the bonus system. New players receive welcome offers, while regular customers can enjoy ongoing promotions and a loyalty program. This creates additional opportunities to boost winnings and makes the gameplay even more engaging. Support for various payment methods, including cryptocurrencies, ensures fast and secure transactions.\n\n<\/p>\n<br>\n<p>\nSecurity and reliability are core principles at Bitkingz. The casino uses advanced encryption technologies and operates under an international license, guaranteeing data protection and fair play. Every player can trust the transparency of conditions and the high level of service.\n\n<\/p>\n<br>\n<p>\nBitkingz Casino combines excitement, comfort, and innovation. It is perfect for both beginners and experienced players, offering a unique gaming experience and real chances for big wins.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nConvenient Payments and Multi-Currency Support at Bitkingz Casino\n<\/h3>\n\n<p>\nBitkingz Casino provides players with a wide range of payment methods to make deposits and withdrawals as smooth as possible. Users can choose traditional bank cards like Visa and MasterCard, as well as popular e-wallets such as Skrill, Neteller, and MiFinity. For those who prefer modern solutions, cryptocurrencies are available, ensuring fast and secure transactions.\n\n<\/p>\n<br>\n<p>\nThe casino supports multiple currencies to accommodate players from different regions. Options include euros, US dollars, Canadian dollars, and cryptocurrencies like Bitcoin, Ethereum, and Litecoin. This eliminates unnecessary conversions and extra fees, keeping financial operations transparent.\n\n<\/p>\n<br>\n<p>\nAll transactions are processed using advanced encryption technologies, guaranteeing data protection and security. Bitkingz focuses on convenience and reliability, offering flexible options for managing funds.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBitkingz Casino Rules \u2014 Fair Play and Security\n<\/h3>\n\n<p>\nBitkingz Casino follows strict rules to ensure comfort and safety for all players. The main requirement is registration only for adults, as gambling is available exclusively to individuals above the legal age. Every player must provide accurate information when creating an account to avoid issues with verification and withdrawals.\n\n<\/p>\n<br>\n<p>\nThe casino prohibits using multiple accounts by one person, as well as any attempts at fraud or bonus abuse. All actions must comply with fair play principles; otherwise, the account may be suspended. It is also important to note that access to the platform is restricted in countries where gambling is prohibited by law.\n\n<\/p>\n<br>\n<p>\nBitkingz requires identity verification before processing withdrawals. This is necessary to protect players and prevent illegal transactions. All payments are made only through official methods listed on the site, and the use of third-party services is not allowed.\n\n<\/p>\n<br>\n<p>\nPlayers are forbidden from using automated programs or bots for gaming. Any actions violating the rules may result in winnings being canceled. The casino reserves the right to update its terms and notify users of changes.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain conditions and restrictions\n<\/h4>\n\n <ul>\n            <li>\u2022 \nRegistration only for adult users.\n\n<\/li>\n            <li>\u2022 \nMandatory identity verification before withdrawals.\n\n<\/li>\n            <li>\u2022 \nMultiple accounts are prohibited.\n\n<\/li>\n            <li>\u2022 \nBots or automated tools are not allowed.\n\n<\/li>\n\t    <li>\u2022 \nAccess restricted in banned jurisdictions.\n\n<\/li>\n\t    <li>\u2022 \nAll personal data must be accurate.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Protection at Bitkingz Casino<\/h3>\n\n<p>\nBitkingz Casino operates under an international Cura\u00e7ao eGaming license, ensuring legality and transparency in all gaming processes. This license guarantees compliance with fair play standards and protection of user interests. The casino undergoes regular audits to meet regulatory requirements.\n\n<\/p>\n<br>\n<p>\nTo safeguard data, Bitkingz uses advanced SSL encryption technology. This means all information, including personal details and financial transactions, is securely protected from unauthorized access. The security system meets international standards, making the platform safe for players.\n\n<\/p>\n<br>\n<p>\nBitkingz\u2019s privacy policy is designed to protect users\u2019 personal information. All data is processed strictly in accordance with the law and is never shared with third parties without consent. The casino ensures transparency and informs players about how their information is used.\n\n<\/p>\n<br>\n<p>\nAdditionally, the platform implements extra security measures, including two-factor authentication and monitoring of suspicious activities. This helps prevent fraud and maintain the integrity of the gaming process. Bitkingz strives to make every player feel confident and secure.\n\n<\/p>\n<br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Bitkingz",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBitkingz Casino Loyalty Program \u2014 More Play, More Rewards\n<\/h3>\n\n<p>\nThe Bitkingz Casino loyalty program is designed to reward active players and make gaming even more profitable. It is based on a tiered system that unlocks exclusive bonuses and privileges. The more you play, the higher your status and the greater the benefits you receive. The program is available to all registered users and participation starts automatically after the first deposit.\n\n<\/p>\n<br>\n<p>\nThe main concept of the program is earning points for bets placed in games. These points allow you to move up levels and unlock new opportunities. Each level offers additional bonuses, including cashback, higher withdrawal limits, and personalized offers. VIP players enjoy special conditions, such as access to a personal manager and exclusive promotions.\n\n<\/p>\n<br>\n<p>\nThe Bitkingz loyalty program makes the gaming experience more exciting and rewarding. It suits both beginners and experienced players, offering a flexible reward system. The higher your level, the more advantages you get \u2014 from standard bonuses to unique VIP privileges.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Requirements\n\n\n<\/h4>\n            <ul>\n            <li>\u2022 \nSign up on the Bitkingz Casino website.\n\n<\/li>\n            <li>\u2022 \nAge verification (18+).\n\n<\/li>\n            <li>\u2022 \nFirst deposit to activate the program.\n\n\n<\/li>\n \n  \n        <\/ul><br>\n <h4 style = \"font-weight: bold; font-size: 24px;\">Levels and How to Reach Them\n\n\n<\/h4>\n            <ul>\n            <li>\u2022 \nEntry Level \u2014 immediately after registration.\n\n<\/li>\n            <li>\u2022 \nMid Levels \u2014 accumulate points through bets.\n<\/li>\n            <li>\u2022 \nVIP Levels \u2014 for active players with high deposits.\n\n<\/li>\n           <li>\u2022 \nPoints are earned for every bet in slots and table games.\n\n<\/li>\n       \n \n        <\/ul><br>\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Bonuses and Benefits\n\n<\/h4>\n        <ul>\n            <li>\u2022 \nCashback up to 20% for higher tiers.\n\n<\/li>\n            <li>\u2022 \nPersonalized bonuses and promotions for VIPs.\n\n<\/li>\n       <li>\u2022 \nIncreased withdrawal limits.\n\n<\/li>\n            <li>\u2022 \nExclusive free spins on popular slots.\n<\/li>\n              <li>\u2022 \nAccess to a personal manager for VIP players.\n\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at Bitkingz Casino \u2014 More Chances to Win<\/h3>\n\n<p>\nBitkingz Casino provides a wide range of bonuses and special offers that make gaming even more exciting. Beyond the loyalty program, the platform regularly runs promotions, seasonal events, and unique bonuses for different player categories. These offers are designed to boost winning chances and deliver extra thrills.\n\n<\/p>\n<br>\n<p>\nPlayers can enjoy welcome bonuses, reload promotions, cashback, and free spins. In addition, the casino hosts themed tournaments with large prize pools, where participants can win real money and exclusive gifts. Seasonal events such as holiday or summer promotions add extra excitement and rewards.\n\n<\/p>\n<br>\n<p>\nBitkingz also offers special deals for high rollers, including increased limits and personalized bonuses. All promotions come with clear terms, and winnings can reach impressive amounts. This makes the platform appealing to both beginners and experienced players.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Bonuses and Offers\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome Bonus: up to 300% on first deposits + up to 500 free spins.\n\n<\/li>\n            <li>\u2022 \nReload Bonuses: weekly offers, e.g., 25% up to \u20ac500.\n\n<\/li>\n            <li>\u2022 \nCashback: up to 20% for active players.\n\n<\/li>\n            <li>\u2022 \nFree Spins: up to 200 spins on popular slots.\n\n<\/li>\n\t    <li>\u2022 \nTournaments: prize pools up to \u20ac10,000 and more.\n\n<\/li>\n\t    <li>\u2022 \nSeasonal Promotions: holiday, summer, and themed events with exclusive prizes.\n\n<\/li>\n\t    <li>\u2022 \nHigh Roller Bonuses: increased limits and personalized offers.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Bitkingz Casino \u2014 Top Entertainment for Players\n<\/h3>\n\n<p>\nBitkingz Casino offers a vast selection of games to satisfy every player\u2019s taste. The platform features classic slots, modern video slots with stunning graphics, table games, and live casino options with real dealers. Each game is developed by leading providers, ensuring high quality and fair play.\n\n<\/p>\n<br>\n<p>\nSlots hold a special place in Bitkingz\u2019s collection. They come with diverse themes, bonus features, and progressive jackpots. For strategy lovers, table games like roulette, blackjack, and poker are available. Fans of realistic experiences can enjoy live casino games streamed in real time.\n\n<\/p>\n<br>\n<p>\nAdditionally, the casino regularly adds new titles to keep the gaming experience fresh and exciting. All games are optimized for mobile devices, allowing players to enjoy them anytime, anywhere.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular Games at Bitkingz Casino\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBook of Dead \u2014 legendary slot with Egyptian theme and free spins.\n\n<\/li>\n            <li>\u2022 \nStarburst \u2014 vibrant video slot with simple rules and frequent wins.\n\n<\/li>\n            <li>\u2022 \nGonzo\u2019s Quest \u2014 adventure slot with cascading reels and multipliers.\n\n<\/li>\n            <li>\u2022 \nSweet Bonanza \u2014 colorful slot with \u201cbuy bonus\u201d feature and big payouts.\n\n<\/li>\n\t    <li>\u2022 \nLightning Roulette \u2014 unique roulette version with extra multipliers.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack Live \u2014 classic card game with real dealers.\n\n<\/li>\n\t    <li>\u2022 \nMega Moolah \u2014 progressive jackpot slot offering millions in prizes.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Bitkingz Casino\n<\/h3>\n\n<p> \nBitkingz Casino offers flexible betting limits to suit players with different budgets. Minimum bets allow beginners to start playing without major investments, while maximum bets cater to high rollers seeking big wins. Each game has its own limits, making the platform accessible to all types of players.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#108A46; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Bitkingz Casino \u2014 Endless Fun and Thrills\n<\/h3>\n\n<p>\nBitkingz Casino is not just an online gaming platform but a space where exciting events and special promotions take place regularly. The casino aims to create a festive atmosphere by offering unique entertainment beyond standard betting. Players can enjoy tournaments, themed promotions, seasonal events, and even virtual shows that make the gaming experience truly immersive.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to slot and table game tournaments. These events feature large prize pools and allow participants to compete for real money and exclusive gifts. Tournaments often come with extra bonuses such as free spins or cashback, increasing the chances of winning. For thrill-seekers, bet races are organized, rewarding winners with generous prizes.\n\n<\/p>\n<br>\n<p>\nSeasonal events are another highlight of Bitkingz. Holiday promotions, summer festivals, and themed weeks add excitement and offer players additional bonuses. These events often include prize draws, exclusive tournaments, and special deals for active participants.\n\n<\/p>\n<br>\n<p>\nAdditionally, the casino hosts virtual shows and live streams with professional dealers, creating the atmosphere of a real casino right on the screen. It\u2019s a great way to feel part of a vibrant gaming community and enjoy live entertainment.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntertainment and Events with Short Descriptions\n\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nSlot Tournaments \u2014 competitions with prize pools up to \u20ac10,000.\n\n<\/li>\n            <li>\u2022 \nTable Game Tournaments \u2014 poker, blackjack, and roulette with winner bonuses.\n\n<\/li>\n            <li>\u2022 \nBet Races \u2014 dynamic challenges with cash prizes and free spins.\n\n<\/li>\n            <li>\u2022 \nSeasonal Promotions \u2014 holiday and summer events with exclusive bonuses.\n\n<\/li>\n\t    <li>\u2022 \nThemed Weeks \u2014 special offers on popular games.\n\n<\/li>\n\t    <li>\u2022 \nVirtual Shows \u2014 live dealer streams and prize giveaways.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at Bitkingz Casino\n<\/h3>\n\n<p>\nBitkingz Casino offers convenient and secure withdrawal methods to make cashing out winnings as smooth as possible. All transactions are processed through trusted payment systems, including bank cards, e-wallets, and cryptocurrencies. This allows players to choose the most suitable option based on their preferences.\n\n<\/p>\n<br>\n<p>\nPayout speed depends on the chosen method. E-wallets and cryptocurrencies provide almost instant transfers, while bank cards take longer \u2014 usually between 3 and 7 business days. The casino aims to process withdrawal requests quickly, but final timelines depend on the payment provider.\n\n<\/p>\n<br>\n<p>\nInternal processing time at the casino typically ranges from a few hours to 24 hours. Before the first withdrawal, players must complete identity verification to ensure transaction security and compliance with licensing requirements.\n\n<\/p>\n<br>\n<p>\nWithdrawal limits also vary by payment method. The minimum withdrawal amount usually starts at \u20ac20, while maximum limits can reach \u20ac50,000 per day for VIP players. This makes the platform suitable for both beginners and high rollers.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Methods\n\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBank Cards (Visa, MasterCard) \u2014 up to 3\u20137 days.\n\n<\/li>\n            <li>\u2022 \nE-wallets (Skrill, Neteller, MiFinity) \u2014 instant transfers.\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies (Bitcoin, Ethereum, Litecoin) \u2014 fast and secure transactions.\n<\/li>\n\n        <\/ul><br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing Times\n\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nCasino processing: a few hours to 24 hours.\n\n<\/li>\n            <li>\u2022 \nBy method: cards \u2014 up to 7 days, crypto and e-wallet \u2014 instant.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Limits\n\n\n<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum withdrawal: \u20ac20.\n\n<\/li>\n            <li>\u2022 \nMaximum limit: up to \u20ac50,000 per day for VIP.\n\n<\/li>\n   \n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need verification to play?",
+                    "answer": "Yes, identity verification is required for withdrawals. This is a standard procedure for security and fraud prevention.\n"
+                },
+                {
+                    "title": "How fast are deposits processed?",
+                    "answer": "Deposits are processed instantly, regardless of the payment method.\n"
+                },
+                {
+                    "title": "Can I play without downloading an app?",
+                    "answer": "Yes, the casino is accessible via browser on PC and mobile devices. The Android app is an additional option.\n"
+                },
+                {
+                    "title": "Which countries have access restrictions?",
+                    "answer": "Access is prohibited in countries where gambling is restricted by law, such as the USA and UK.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/884",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Bitkingz"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
